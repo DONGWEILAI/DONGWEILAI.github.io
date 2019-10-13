@@ -6,7 +6,7 @@
 
 - [实验01 具有神经网络思维的Logistic回归进行猫识别](./deeplearning_ex01.html)
 - [实验02 使用浅层神经网络实现平面数据分类](./deeplearning_ex02.html)
-- 实验03 构建DNN、DNN用于图片分类
+- [实验03 构建DNN、DNN用于图片分类](./deeplearning_ex03.html)
 - 实验04 初始化、正则化、梯度检验
 - 实验05 优化算法实战
 - 实验06 TensorFlow入门
