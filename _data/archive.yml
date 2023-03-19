@@ -1,5 +1,5 @@
-- type: blog
-  title: Blog
+- type: blogs
+  title: Blogs
   url: /
 - type: dates
   title: Dates
