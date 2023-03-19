@@ -1,4 +1,4 @@
-# A simple blog
+# A Simple Blog
 
 > Based on https://github.com/vszhub/not-pure-poole
 
